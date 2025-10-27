@@ -40,10 +40,7 @@ by its most significant keywords and their corresponding probabilities, automati
 #### 3.6 Sentiment Analysis
 Sentiment analysis utilized pre-existing sentiment attributes available in the dataset (Positive, Negative, and Compound scores). These values were originally computed during data collection using the VADER(Valence Aware Dictionary for Sentiment Reasoning) model. In this study, they were aggregated to evaluate the emotional polarity of tweets across both spatial clusters and seasonal subsets. Average sentiment scores were calculated for each cluster and season, enabling the identification of geographic regions and time periods associated with more positive or negative public expression.
 
-### 📈 Outcome
-The analysis reveals distinct urban communication patterns:  
-Downtown Manhattan shows the most positive and event-driven discourse,  
-while Uptown Manhattan and the Bronx exhibit more negative sentiment tied to incidents and infrastructure.  
-These insights demonstrate how social media can be used to understand urban behavior and sentiment across both space and season.
+###  Outcome
+The study presents the findings of the spatial–temporal analysis of Twitter data across New York City in the year 2021. The results integrate topic modeling and sentiment analysis across four spatial clusters and four seasonal subsets. Each cluster represents a distinct socio-geographic region, and the seasonal divisionhighlights how public interests and emotional tones evolve through the year. Together, these analyses reveal how online discussions mirror the rhythms of urban life and social interaction in New York City.
 
 ---
